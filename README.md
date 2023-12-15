@@ -1,0 +1,8 @@
+This website is created in wordpress (E-commerce) with payment intregation of paypal.![Screenshot 2023-12-15 192034](https://github.com/faizalkhan24/Ecommerce_wordpress/assets/103817308/2fbf5137-b7fa-4568-a168-c08ae782a45e)
+![Screenshot 2023-12-15 192056](https://github.com/faizalkhan24/Ecommerce_wordpress/assets/103817308/b2da2d71-34a5-43b4-bf10-0db5923c4863)
+![Screenshot 2023-12-15 192107](https://github.com/faizalkhan24/Ecommerce_wordpress/assets/103817308/c3bf518b-5c32-4c1e-919b-239b1ed831b8)
+![Screenshot 2023-12-15 192121](https://github.com/faizalkhan24/Ecommerce_wordpress/assets/103817308/bd462993-9c41-422e-ab2b-fc8b5a924f7b)
+![Screenshot 2023-12-15 192136](https://github.com/faizalkhan24/Ecommerce_wordpress/assets/103817308/a53e3a55-9aa4-41f5-96f7-9ee635dd3e04)
+![Screenshot 2023-12-15 192220](https://github.com/faizalkhan24/Ecommerce_wordpress/assets/103817308/e662cf2f-7f95-4bdd-b1ef-044015e64e6f)
+![Screenshot 2023-12-15 192255](https://github.com/faizalkhan24/Ecommerce_wordpress/assets/103817308/4f03fecb-2fe5-4447-82ac-5f0519d108d2)
+![Screenshot 2023-12-15 192018](https://github.com/faizalkhan24/Ecommerce_wordpress/assets/103817308/2c7db02b-f4fd-4a50-9737-35829a8482ba)
